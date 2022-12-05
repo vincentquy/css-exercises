@@ -1,0 +1,11 @@
+/* Combining class selectors */
+/* .container .text {
+    background-color: yellow;
+    color: red;
+} */
+
+/* Combining a type and a class */
+div .text {
+    background-color: yellow;
+    color: red;
+}
